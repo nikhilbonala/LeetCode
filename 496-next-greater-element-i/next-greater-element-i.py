@@ -29,5 +29,6 @@ class Solution:
             result.append(g[i])
 
         print(g)
+        # print(result)
         return result
 
